@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **stepris/stepris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my page
+# Hi there 👋
+
+## Welcome to my page
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
